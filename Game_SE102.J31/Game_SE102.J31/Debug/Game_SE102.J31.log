@@ -1,0 +1,6 @@
+﻿  Camera.cpp
+  Game.cpp
+  GameGlobal.cpp
+  WinMain.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\winmain.cpp(2): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
