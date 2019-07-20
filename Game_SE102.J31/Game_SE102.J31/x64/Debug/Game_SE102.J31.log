@@ -1,6 +1,112 @@
-﻿  Camera.cpp
+﻿  Animation.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\animation.cpp(32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\animation.cpp(57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Camera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\camera.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\game.cpp(114): warning C4244: 'initializing': conversion from 'unsigned long' to 'float', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\game.cpp(125): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\game.cpp(172): warning C4244: 'argument': conversion from 'WPARAM' to 'int', possible loss of data
   GameGlobal.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  GameMap.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gamemap.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gamemap.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gamemap.cpp(42): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gamemap.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gamemap.cpp(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Object.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  PlayScene.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Player.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  PlayerRunningState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  PlayerSittingState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  PlayerStandingState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Sprite.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\sprite.cpp(12): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\sprite.cpp(30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  SpriteManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  TextureManager.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
   WinMain.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(49): warning C4091: 'extern ': ignored on left of 'Tag' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(58): warning C4091: 'extern ': ignored on left of 'Type' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(76): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\playersprite.h(17): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\weaponsprite.h(16): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
   Generating Code...
   Game_SE102.J31.vcxproj -> D:\Game Captain America and The Avengers\Game_SE102.J31\x64\Debug\Game_SE102.J31.exe

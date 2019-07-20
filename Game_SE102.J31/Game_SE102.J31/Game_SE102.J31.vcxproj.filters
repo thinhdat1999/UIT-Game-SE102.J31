@@ -27,6 +27,9 @@
     <Filter Include="Framework\Collision">
       <UniqueIdentifier>{abe51413-a3b6-43fc-80aa-f2d652859e4a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Framework\Game Entity\PlayerState">
+      <UniqueIdentifier>{618f4024-fa0b-4059-83f6-1e6f73569caf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameGlobal.h">
@@ -44,9 +47,6 @@
     <ClInclude Include="Animation.h">
       <Filter>Framework\Graphics</Filter>
     </ClInclude>
-    <ClInclude Include="AnimationManager.h">
-      <Filter>Framework\Graphics</Filter>
-    </ClInclude>
     <ClInclude Include="SpriteManager.h">
       <Filter>Framework\Graphics</Filter>
     </ClInclude>
@@ -54,9 +54,6 @@
       <Filter>Framework\Graphics</Filter>
     </ClInclude>
     <ClInclude Include="Object.h">
-      <Filter>Framework\Game Entity</Filter>
-    </ClInclude>
-    <ClInclude Include="Character.h">
       <Filter>Framework\Game Entity</Filter>
     </ClInclude>
     <ClInclude Include="Scene.h">
@@ -67,6 +64,36 @@
     </ClInclude>
     <ClInclude Include="PlayScene.h">
       <Filter>Framework\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Framework\Game Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerState.h">
+      <Filter>Framework\Game Entity\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerStandingState.h">
+      <Filter>Framework\Game Entity\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSittingState.h">
+      <Filter>Framework\Game Entity\PlayerState</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Framework\Game Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponSprite.h">
+      <Filter>Framework\Game Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponShield.h">
+      <Filter>Framework\Game Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMap.h">
+      <Filter>Framework\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSprite.h">
+      <Filter>Framework\Game Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerRunningState.h">
+      <Filter>Framework\Game Entity\PlayerState</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +108,42 @@
     </ClCompile>
     <ClCompile Include="WinMain.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Framework\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Framework\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteManager.cpp">
+      <Filter>Framework\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Framework\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Framework\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayScene.cpp">
+      <Filter>Framework\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStandingState.cpp">
+      <Filter>Framework\Game Entity\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Framework\Game Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Framework\Game Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerSittingState.cpp">
+      <Filter>Framework\Game Entity\PlayerState</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMap.cpp">
+      <Filter>Framework\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerRunningState.cpp">
+      <Filter>Framework\Game Entity\PlayerState</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

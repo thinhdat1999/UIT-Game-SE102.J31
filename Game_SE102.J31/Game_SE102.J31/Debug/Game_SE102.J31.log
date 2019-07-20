@@ -1,6 +1,31 @@
-﻿  Camera.cpp
+﻿  Animation.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\texturemanager.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Camera.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
   Game.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\game.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
   GameGlobal.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  GameMap.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gamemap.h(1): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Object.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Player.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerSittingState.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerStandingState.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\gameglobal.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayScene.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\scene.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SceneManager.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\scene.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Sprite.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\texturemanager.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  SpriteManager.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\texturemanager.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  TextureManager.cpp
+d:\game captain america and the avengers\game_se102.j31\game_se102.j31\texturemanager.h(3): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
   WinMain.cpp
 d:\game captain america and the avengers\game_se102.j31\game_se102.j31\winmain.cpp(2): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
   Generating Code...
